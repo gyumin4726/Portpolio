@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Slidev / Vite
+dist/
+.vite-inspect/
+.remote-assets/
+components.d.ts
+*.local
+
+# Exported outputs
+slides/slides-export*
+slides/*.pdf
+slides/*.pptx
+
+# Claude Code
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
