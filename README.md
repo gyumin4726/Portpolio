@@ -4,4 +4,4 @@
 
 | 버전 | 날짜 | 변경 내용 |
 |---|---|---|
-| v1 | 2026-06-01 | 최초 버전 (16장) |
+| v1 | 2026-06-01 | 최초 버전 (16장) — Cover · About · Research · Projects · Also Worked On · Contact |
