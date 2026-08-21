@@ -22,3 +22,9 @@ pnpm export     # PDF → slides/slides-export.pdf
 - `slides/slides.md` — 진입점 (표지 + 페이지 모듈 import)
 - `slides/pages/` — 섹션별 슬라이드
 - `slides/style.css` — 전역 스타일
+
+## 버전 기록
+
+| 버전 | 날짜 | 변경 내용 |
+|---|---|---|
+| v1 | 2026-06-01 | 최초 버전. 표지 · About · Research(SS-MoE, ECCV 2026 제출) · Projects(TEP, QKD, LLM·DRL HITL) · Also Worked On · Contact, 총 16장 |
